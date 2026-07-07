@@ -19,7 +19,7 @@ My path has taken me through **GIZ** (administrative and financial coordination 
 
 Outside my paid roles, I founded **PLASTOGO SMART**, a youth-led circular-economy initiative coordinating volunteers across several districts in Togo, and I was selected to represent Togo at the **HPAIR Asia Conference** in Vietnam (August 2026).
 
-**Open to:** Project Officer · Programme Coordinator · Operations Officer · Monitoring & Evaluation Officer · Administrative Officer — remote or in-country, with organisations in international development, global health, or digital transformation.
+**Ouverte au poste de:** chargée de projet, coordinatrice de programme, chargée des opérations et responsable du suivi et de l'évaluation, en télétravail ou sur place, au sein d'organisations actives dans les domaines du développement international, de la santé mondiale ou de la transformation numérique.
 
 ---
 
@@ -57,13 +57,13 @@ Outside my paid roles, I founded **PLASTOGO SMART**, a youth-led circular-econom
 
 ### 💼 Professional Experience
 
-**GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit)** — *Administrative & Finance Project Assistant*
-Supported the administrative and financial implementation of a donor-funded development programme — logistics, procurement, financial documentation, and donor reporting in a multicultural institutional setting.
+**GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit)** - *Administrative & Finance Project Assistant*
+Supported the administrative and financial implementation of a donor-funded development programme logistics, procurement, financial documentation, and donor reporting in a multicultural institutional setting.
 
 **Yango**- *Operations Support & Partner Acquisition Specialist*
 Managed courier and partner operations for a fast-scaling delivery platform. Redesigned onboarding workflows, resolved recurring operational incidents, and served as the point of contact between couriers, merchants, and customers contributing to faster onboarding and improved customer satisfaction.
 
-**60 Decibels** (for WHO & Bill & Melinda Gates Foundation) — *Field Research Assistant, Polio Campaign Evaluation*
+**60 Decibels** (for WHO & Bill & Melinda Gates Foundation) - *Field Research Assistant, Polio Campaign Evaluation*
 Conducted structured interviews with frontline health workers under strict international research protocols; validated field data quality and applied ethical research principles including respondent confidentiality.
 
 **Kainos Digital** - *Business Development Officer*
