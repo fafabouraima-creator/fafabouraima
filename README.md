@@ -17,22 +17,22 @@ My path has taken me through **GIZ** (administrative and financial coordination 
 
 🎓 I'm currently completing a **Master's in Project Management & Digital Transformation** through evening classes, alongside my professional work.
 
-🌱 Outside my paid roles, I founded **PLASTOGO SMART**, a youth-led circular-economy initiative coordinating volunteers across several districts in Togo, and I was selected to represent Togo at the **HPAIR Asia Conference** in Vietnam (August 2026).
+Outside my paid roles, I founded **PLASTOGO SMART**, a youth-led circular-economy initiative coordinating volunteers across several districts in Togo, and I was selected to represent Togo at the **HPAIR Asia Conference** in Vietnam (August 2026).
 
-🎯 **Open to:** Project Officer · Programme Coordinator · Operations Officer · Monitoring & Evaluation Officer · Administrative Officer — remote or in-country, with organisations in international development, global health, or digital transformation.
+**Open to:** Project Officer · Programme Coordinator · Operations Officer · Monitoring & Evaluation Officer · Administrative Officer — remote or in-country, with organisations in international development, global health, or digital transformation.
 
 ---
 
 ### 🧭 Areas of Expertise
 
-- 📊 Project & Programme Coordination
-- ⚙️ Operations Management
-- 📈 Monitoring, Evaluation & Reporting (M&E)
-- 💼 Administrative & Financial Coordination
-- 🔍 Field Research & Data Collection
-- 🤝 Stakeholder & Donor Management
-- 🚀 Business Development
-- 💻 Digital Transformation & Process Improvement
+-  Project & Programme Coordination
+-  Operations Management
+-  Monitoring, Evaluation & Reporting (M&E)
+-  Administrative & Financial Coordination
+-  Field Research & Data Collection
+-  Stakeholder & Donor Management
+-  Business Development
+-  Digital Transformation & Process Improvement
 
 ---
 
@@ -60,29 +60,29 @@ My path has taken me through **GIZ** (administrative and financial coordination 
 **GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit)** — *Administrative & Finance Project Assistant*
 Supported the administrative and financial implementation of a donor-funded development programme — logistics, procurement, financial documentation, and donor reporting in a multicultural institutional setting.
 
-**Yango** — *Operations Support & Partner Acquisition Specialist*
-Managed courier and partner operations for a fast-scaling delivery platform. Redesigned onboarding workflows, resolved recurring operational incidents, and served as the point of contact between couriers, merchants, and customers — contributing to faster onboarding and improved customer satisfaction.
+**Yango**- *Operations Support & Partner Acquisition Specialist*
+Managed courier and partner operations for a fast-scaling delivery platform. Redesigned onboarding workflows, resolved recurring operational incidents, and served as the point of contact between couriers, merchants, and customers contributing to faster onboarding and improved customer satisfaction.
 
 **60 Decibels** (for WHO & Bill & Melinda Gates Foundation) — *Field Research Assistant, Polio Campaign Evaluation*
 Conducted structured interviews with frontline health workers under strict international research protocols; validated field data quality and applied ethical research principles including respondent confidentiality.
 
-**Kainos Digital** — *Business Development Officer*
-Ran the full B2B sales cycle — prospecting, qualification, proposal, negotiation — and worked with technical teams to scope digital transformation solutions for clients.
+**Kainos Digital** - *Business Development Officer*
+Ran the full B2B sales cycle, prospecting, qualification, proposal, negotiation and worked with technical teams to scope digital transformation solutions for clients.
 
-**DAVESE / Wiin.io** — *Administrative & Commercial Assistant*
+**DAVESE / Wiin.io** - *Administrative & Commercial Assistant*
 Built and maintained prospect/customer databases, prepared commercial reporting, and strengthened CRM data quality.
 
-**ACE SASU** — *Administrative & Operations Assistant*
+**ACE SASU** - *Administrative & Operations Assistant*
 Provided administrative and operational support to executive management, covering scheduling, contracts, procurement follow-up, and HR administration.
 
 ---
 
-### 🌍 Leadership & Volunteering
+###  Leadership & Volunteering
 
-- 🌱 **Founder** — PLASTOGO SMART (youth-led circular economy / plastic waste initiative, Togo)
-- 🎤 **Selected Delegate** — HPAIR Asia Conference 2026 (Hanoi)
-- 👩🏾‍🤝‍👩🏽 **Member** — Association Jeunes Femmes Leaders Togo
-- 🌐 **Virtual Delegate** — World Bank Youth Summit
+-  **Founder** : PLASTOGO SMART (youth-led circular economy / plastic waste initiative, Togo)
+-  **Selected Delegate** : HPAIR Asia Conference 2026 (Hanoi)
+- 👩🏾‍🤝‍👩🏽 **Member** : Association Jeunes Femmes Leaders Togo
+- 🌐 **Virtual Delegate** : World Bank Youth Summit
 
 ---
 
@@ -102,12 +102,12 @@ Provided administrative and operational support to executive management, coverin
 
 ### 🌐 Languages
 
-- 🇫🇷 **French** — Native
-- 🇬🇧 **English** — Professional working proficiency
+- 🇫🇷 **French** : Native
+- 🇬🇧 **English** : Professional working proficiency
 
 ---
 
-### 📌 About This Profile
+### About This Profile
 
 I use GitHub primarily to document and share **project frameworks, M&E templates, and reporting tools** I build for my work — not as a software development portfolio. Feel free to explore my pinned repositories for examples.
 
