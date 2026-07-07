@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Farida Bouraima 👋</h1>
-<h3 align="center">Project & Operations Officer | International Development | M&E | Digital Transformation</h3>
+<h3 align="center">Chargée de projets et d'opérations | Développement international | Suivi et évaluation | Transformation numérique</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lom%C3%A9%2C%20Togo-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white" />
