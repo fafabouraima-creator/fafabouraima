@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Farida Bouraima 👋</h1>
-<h3 align="center">Chargée de projets et d'opérations | Développement international | Suivi et évaluation | Transformation numérique</h3>
+<h3 align="center">Project and Operations Manager | International Development | Monitoring and Evaluation | Digital Transformation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lom%C3%A9%2C%20Togo-1a73e8?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -19,7 +19,7 @@ My path has taken me through **GIZ** (administrative and financial coordination 
 
 Outside my paid roles, I founded **PLASTOGO SMART**, a youth-led circular-economy initiative coordinating volunteers across several districts in Togo, and I was selected to represent Togo at the **HPAIR Asia Conference** in Vietnam (August 2026).
 
-**Ouverte au poste de:** chargée de projet, coordinatrice de programme, chargée des opérations et responsable du suivi et de l'évaluation, en télétravail ou sur place, au sein d'organisations actives dans les domaines du développement international, de la santé mondiale ou de la transformation numérique.
+**Open to the position of:** Project officer, program coordinator, operations officer and monitoring and evaluation officer, working remotely or on-site, within organizations active in the fields of international development, global health or digital transformation.
 
 ---
 
@@ -90,12 +90,12 @@ Provided administrative and operational support to executive management, coverin
 
 **Education**
 - Master's in Project Management & Digital Transformation *(in progress, evening classes)*
-- Professional Bachelor's Degree — Banking, Finance & Insurance
+- Professional Bachelor's Degree in Banking, Finance & Insurance
 
 **Certifications**
-- 🏅 DigiFemmes — Project Management & Digital Transformation
-- 🏅 DisasterReady — Project Management Fundamentals
-- 🏅 60 Decibels — Research Training
+- 🏅 DigiFemmes:Project Management & Digital Transformation
+- 🏅 DisasterReady : Project Management Fundamentals
+- 🏅 60 Decibels : Research Training
 - 🏅 LinkedIn Learning Certifications
 
 ---
@@ -109,7 +109,7 @@ Provided administrative and operational support to executive management, coverin
 
 ### About This Profile
 
-I use GitHub primarily to document and share **project frameworks, M&E templates, and reporting tools** I build for my work — not as a software development portfolio. Feel free to explore my pinned repositories for examples.
+I use GitHub primarily to document and share **project frameworks, M&E templates, and reporting tools** I build for my work not as a software development portfolio. Feel free to explore my pinned repositories for examples.
 
 ---
 
